@@ -13,4 +13,4 @@ This project addresses inefficiencies in retail by eliminating intermediaries be
 
 `WatsonX.AI`
 
-### IBM Watson Ecosystem
+`IBM Watson Ecosystem`
