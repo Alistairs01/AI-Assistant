@@ -9,8 +9,8 @@
 ## 💡Tech and Category Tags
 #Watsonx Assistant
 
-# Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 
-# WatsonX.AI
+### WatsonX.AI
 
-# IBM Watson Ecosystem
+### IBM Watson Ecosystem
