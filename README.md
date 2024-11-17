@@ -1,4 +1,4 @@
-##  Enhancing Customer Engagement and Operational Efficiency with IBM Watson Assistant
+## :🔮 Enhancing Customer Engagement and Operational Efficiency with IBM Watson Assistant 🔮
 
 ## ⚡ Short description
 `A conversational AI assistant for retail streamlines customer interactions by helping them find products by brand, category, or price, checking availability, and managing carts for purchases or later. It simplifies shopping, removing the middleman and enhancing user experience.`
